@@ -1,0 +1,13 @@
+C:\Users\crist\source\repos\ConsoleScanner\ConsoleScanner\bin\Debug\ConsoleScanner.exe.config
+C:\Users\crist\source\repos\ConsoleScanner\ConsoleScanner\bin\Debug\ConsoleScanner.exe
+C:\Users\crist\source\repos\ConsoleScanner\ConsoleScanner\bin\Debug\ConsoleScanner.pdb
+C:\Users\crist\source\repos\ConsoleScanner\ConsoleScanner\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\crist\source\repos\ConsoleScanner\ConsoleScanner\bin\Debug\Google.Protobuf.dll
+C:\Users\crist\source\repos\ConsoleScanner\ConsoleScanner\bin\Debug\MySql.Data.dll
+C:\Users\crist\source\repos\ConsoleScanner\ConsoleScanner\bin\Debug\Google.Protobuf.xml
+C:\Users\crist\source\repos\ConsoleScanner\ConsoleScanner\bin\Debug\MySql.Data.xml
+C:\Users\crist\source\repos\ConsoleScanner\ConsoleScanner\obj\Debug\ConsoleScanner.csprojAssemblyReference.cache
+C:\Users\crist\source\repos\ConsoleScanner\ConsoleScanner\obj\Debug\ConsoleScanner.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\ConsoleScanner\ConsoleScanner\obj\Debug\ConsoleScanner.csproj.CopyComplete
+C:\Users\crist\source\repos\ConsoleScanner\ConsoleScanner\obj\Debug\ConsoleScanner.exe
+C:\Users\crist\source\repos\ConsoleScanner\ConsoleScanner\obj\Debug\ConsoleScanner.pdb
